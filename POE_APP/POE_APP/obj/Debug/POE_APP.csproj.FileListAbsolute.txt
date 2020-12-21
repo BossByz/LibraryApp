@@ -1,0 +1,103 @@
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\POE_APP.exe.config
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\POE_APP.exe
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\POE_APP.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.csprojAssemblyReference.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\MainWindow.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\App.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP_MarkupCompile.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP_MarkupCompile.lref
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\MainWindow.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.g.resources
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.Properties.Resources.resources
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.GenerateResource.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.exe
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\App.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.CopyComplete
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\BookReplace.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\BookReplace.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.xml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\Achievements.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\Achievements.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\BookReplaceTest.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\obj\Debug\BookReplaceTest.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\POE_APP\POE_APP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\POE_APP.exe.config
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\POE_APP.exe
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\POE_APP.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.xml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP_MarkupCompile.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP_MarkupCompile.lref
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.g.resources
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.Properties.Resources.resources
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.GenerateResource.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.CopyComplete
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.exe
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.pdb
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\POE_APP.csprojAssemblyReference.cache
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Achievement\Achievements.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\MiddleScreen.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\AreaIdentificationTest.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\BookReplaceTest.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\MainWindow.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Resources\App.g.cs
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Resources\App.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Achievement\Achievements.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\MiddleScreen.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\AreaIdentificationTest.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\BookReplaceTest.baml
+C:\Users\Byron\Desktop\Varsity\VC 2020\Semester 2\PROG\17001921_PROG7312_TASK1\POE_APP\POE_APP\obj\Debug\Window\MainWindow.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\POE_APP.exe.config
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\POE_APP.exe
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\POE_APP.pdb
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.dll
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.pdb
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\GongSolutions.WPF.DragDrop.xml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Achievement\Achievements.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\MiddleScreen.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\AreaIdentificationTest.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\BookReplaceTest.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\MainWindow.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Resources\App.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP_MarkupCompile.cache
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP_MarkupCompile.lref
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Resources\App.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Achievement\Achievements.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\MiddleScreen.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\AreaIdentificationTest.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\BookReplaceTest.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\MainWindow.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.g.resources
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.Properties.Resources.resources
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.GenerateResource.cache
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.csproj.CopyComplete
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.exe
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\POE_APP.pdb
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\FindCallNumbersTest.g.cs
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\obj\Debug\Window\FindCallNumbersTest.baml
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Byron\Desktop\Varsity\LibraryApp\POE_APP\POE_APP\bin\Debug\Newtonsoft.Json.xml

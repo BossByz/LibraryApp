@@ -1,0 +1,222 @@
+﻿<Window
+    x:Class="POE_APP.FindCallNumbersTest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:dd="urn:gong-wpf-dragdrop"
+    xmlns:local="clr-namespace:POE_APP"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="BookReplace"
+    Width="800"
+    Height="450"
+    AllowsTransparency="True"
+    Background="Transparent"
+    ResizeMode="NoResize"
+    TextElement.FontSize="13"
+    TextElement.FontWeight="Regular"
+    TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+    TextOptions.TextFormattingMode="Ideal"
+    TextOptions.TextRenderingMode="Auto"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Rectangle
+            Width="800"
+            Height="450"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Fill="{DynamicResource MaterialDesignPaper}"
+            MouseDown="Rectangle_MouseDown"
+            Opacity="1"
+            RadiusX="10"
+            RadiusY="10" />
+
+        <TextBlock
+            Margin="16"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            FontSize="20"
+            FontStyle="Italic"
+            FontWeight="Bold"
+            Text="Finding Call Numbers" />
+
+        <StackPanel
+            Width="664"
+            Height="300"
+            Margin="0,50,0,0"
+            Orientation="Vertical">
+
+            <Button
+                Name="BtnOptionA"
+                Width="400"
+                Height="50"
+                Margin="8"
+                BorderThickness="0"
+                Click="BtnOptions_Click"
+                Content="Option A" />
+
+            <Button
+                Name="BtnOptionB"
+                Width="400"
+                Height="50"
+                Margin="8"
+                BorderThickness="0"
+                Click="BtnOptions_Click"
+                Content="Option B" />
+
+            <Button
+                Name="BtnOptionC"
+                Width="400"
+                Height="50"
+                Margin="8"
+                BorderThickness="0"
+                Click="BtnOptions_Click"
+                Content="Option C" />
+
+            <Button
+                Name="BtnOptionD"
+                Width="400"
+                Height="50"
+                Margin="8"
+                BorderThickness="0"
+                Click="BtnOptions_Click"
+                Content="Option D" />
+
+        </StackPanel>
+
+
+        <TextBlock
+            Name="TxtQuestion"
+            Margin="0,50,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            FontSize="18"
+            Text="Question" />
+
+        <Button
+            x:Name="BtnClose"
+            Margin="0,8,7,0"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            BorderThickness="0"
+            Click="BtnClose_Click"
+            Style="{DynamicResource MaterialDesignIconForegroundButton}">
+            <materialDesign:PackIcon Kind="Close" />
+        </Button>
+
+        <Button
+            x:Name="BtnMinimize"
+            Width="48"
+            Height="48"
+            Margin="0,8,60.667,0"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            BorderThickness="0"
+            Click="BtnMinimize_Click"
+            Style="{DynamicResource MaterialDesignIconForegroundButton}">
+            <materialDesign:PackIcon Kind="WindowMinimize" />
+        </Button>
+
+        <Button
+            Name="BtnCancel"
+            Width="200"
+            Margin="8"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Bottom"
+            Click="BtnCancel_Click"
+            Content="CANCEL ATTEMPT"
+            Style="{DynamicResource MaterialDesignFlatButton}" />
+
+        <materialDesign:DialogHost
+            Name="ResultDialog"
+            CloseOnClickAway="False"
+            DialogTheme="Inherit">
+            <materialDesign:DialogHost.DialogContent>
+                <Grid
+                    Margin="20"
+                    Background="Transparent"
+                    ShowGridLines="False">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+
+                    <Button
+                        Name="BtnDone"
+                        Grid.Row="3"
+                        Grid.Column="0"
+                        Width="150"
+                        Click="BtnDone_Click"
+                        Content="DONE"
+                        Style="{StaticResource MaterialDesignFlatButton}" />
+
+                    <Button
+                        Name="BtnStartNew"
+                        Grid.Row="3"
+                        Grid.Column="1"
+                        Width="150"
+                        Click="BtnStartNew_Click"
+                        Content="START NEW"
+                        Style="{StaticResource MaterialDesignFlatButton}" />
+
+                    <Button
+                        Name="BtnAchievements"
+                        Grid.Row="3"
+                        Grid.Column="2"
+                        Width="150"
+                        Click="BtnAchievements_Click"
+                        Content="ACHIEVEMENTS"
+                        Style="{StaticResource MaterialDesignFlatButton}" />
+
+                    <TextBlock
+                        Name="txtResultDialogUser"
+                        Grid.Row="1"
+                        Grid.Column="0"
+                        Margin="0,0,0,30"
+                        TextAlignment="Right" />
+
+                    <TextBlock
+                        Name="txtResultCorrect"
+                        Grid.Row="1"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="3"
+                        TextAlignment="Center" />
+
+                    <TextBlock
+                        Name="txtResultScore"
+                        Grid.Row="2"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="3"
+                        Margin="0,0,0,30"
+                        TextAlignment="Center" />
+
+                    <TextBlock
+                        Name="txtResultDialogHeader"
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        Margin="0,10,0,30"
+                        FontSize="20"
+                        FontStyle="Italic"
+                        FontWeight="Bold"
+                        TextAlignment="Center">
+                        Results
+                    </TextBlock>
+
+                </Grid>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+    </Grid>
+</Window>
